@@ -3,7 +3,7 @@
 ## description 
 this task was to make us have a complete understanding how how to use node and help us generator readme files 
 
-"C:\Users\Ngods\Videos\Captures\2023-06-20 22-59-35.mkv"
+
 
 ## Acceptance Criteria
 
